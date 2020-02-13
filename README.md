@@ -1,2 +1,2 @@
-# crown
-Korona wyzwań
+# Crown
+Korona wyzwań with Vladimir - diary
